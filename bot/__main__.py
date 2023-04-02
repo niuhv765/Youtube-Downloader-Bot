@@ -18,5 +18,5 @@ Client(
     api_id=APP_ID,
     api_hash=API_HASH,
     plugins=plugins,
-    workers=eco
+    workers=Eco
 ).run()
